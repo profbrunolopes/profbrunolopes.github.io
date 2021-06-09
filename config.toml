@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Prof Bruno Lopes"
+title = "Blog do Prof"
 languageCode = "pt-br"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
@@ -7,12 +7,12 @@ disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  name = "Bruno Lopes"
+  bio = "Pai do Heitor, esposo de Emanulle, professor universitário de computação e streamer nas horas vagas"
   avatar = "img/avatar.png"
 
 [Params]
-  description = "John Doe's Personal blog about everything" # Description of your site
+  description = "Blog pessoal onde será postado conteúdo sobre computação e áreas afins" # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
@@ -21,7 +21,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   post_meta = ["date", "categories"] # Order of post meta information
 
 [Params.logo]
-  subtitle = "Just another site" # Logo subtitle
+  subtitle = "Conteúdo de qualidade você encontra aqui!" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
