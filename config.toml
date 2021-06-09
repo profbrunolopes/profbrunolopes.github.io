@@ -8,17 +8,20 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
   name = "Bruno Lopes"
-  bio = "Pai do Heitor, esposo de Emanulle, professor universitário de computação e streamer nas horas vagas"
-  avatar = "img/avatar.png"
+  bio = "Pai do Heitor, esposo de Emanulle, professor universitário de computação e streamer na twitch nas horas vagas!"
+  avatar = "img/avatar.jpg"
 
 [Params]
   description = "Blog pessoal onde será postado conteúdo sobre computação e áreas afins" # Description of your site
   opengraph = true
-  twitter_cards = false
+  twitter_cards = true
   readmore = false # Show "Read more" button in list if true
   authorbox = true
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
+  mathjax = true # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
 
 [Params.logo]
   subtitle = "Conteúdo de qualidade você encontra aqui!" # Logo subtitle
@@ -29,6 +32,15 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   single = "right" # Configure layout for single pages
   # Enable widgets in given order
   widgets = ["search", "recent", "categories", "taglist"]
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  twitter = "brunolopesjn"
+  instagram = "profbrunolopesce"
+  linkedin = "profbrunolopes"
+  telegram = "profbrunolopes"
+  github = "profbrunolopes"
+  email = "contato@profbrunolopes.dev.br"
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
