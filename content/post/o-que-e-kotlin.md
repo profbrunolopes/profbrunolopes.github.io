@@ -1,7 +1,7 @@
 ---
 title: "O que é Kotlin?"
 date: 2021-06-10T02:36:03-03:00
-draft: true
+draft: false
 categories:
   - "Kotlin"
 tags:
