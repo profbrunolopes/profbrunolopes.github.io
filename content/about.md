@@ -1,32 +1,35 @@
 ---
-title: About Hugo
+title: Quem sou?
 date: 2014-04-09
 authorbox: false
 sidebar: false
 menu: main
 ---
 
-Hugo is a static site engine written in Go.
+Olá, me chamo Bruno Lopes! 
 
+Este blog é um espaço no qual desejo compartilhar um pouco do que sei sobre computação e também para registrar tudo aqui que estou estudando e aprendendo. Sempre utilizarei uma linguagem simples para explicar os conceitos aqui apresentados (se não estiver simples ou conheça uma forma mais simples de explicar o que foi dito, por favor me avise!).
 
-It makes use of a variety of open source projects including:
+## Currículo Acadêmico
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+Possuo bacharelado em Sistemas de Informação pela Faculdade de Juazeiro do Norte (FJN), mestrado em Ciências da Computação pela Universidade Estadual de Ceará (UECE) e atualmente concluindo meu doutorado em Ciência da Computação pela Universidade Federal do Ceará (UFC).
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+Desde 2014 atuo como professor universitário sendo professor substituto do curso de Ciência da Computação da Universidade Estadual do Ceará (UECE), professor do curso de Ciência da Computação no curso semi presencial da Universidade Aberta do Brasil (UAB) e atualmente atuo como professor na Universidade de Fortaleza nos cursos de Ciências da Computação e Engenharia de Computação nas seguintes disciplinas (não necessáriamente atuo em todas elas no mesmo semestre, depende da demanda):
 
-## Setup
+ * Raciocínio Lógico e Algoritmos;
+ * Estruturas de Dados;
+ * Modelagem de Problemas com Matemática;
+ * Algebra e Geometria Computacional;
+ * Desenvolvimento para Plataformas Web;
+ * Desenvolvimento para Plataformas Mobile;
+ * Sistemas Operacionais;
+ * Projeto de Redes Convergentes;
+ * Sistemas Inteligentes;
 
-Some fun facts about [Hugo](http://gohugo.io/):
+## Currículo Profissional
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+Ná área de Tecnologia da Informação e Comunicação atuei como administrador de redes em provedores de Interet as cidades de Juazeiro do Norte e Crato e também a Prefeitura Municipal do Crato no período de 2004 a 2010. Fui instrutor de cursos de extensão de Redes de Computadores e Servidores Linux nesse mesmo período.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+Em 2010 comecei atuar como desenvolvedor Java no projeto Corredores Digitais do Governo do Estado do Ceará e depois na empresa CASSIC em Juazeiro do Norte. Em 2012 comecei a trabalhar como desenvolvedor Ruby on Rails no projeto Sentinelle e depois como Desenvolvedor pleno no Instituto de Previdência do Município de Fortaleza (IPM) de 2012 a 2014.
 
-Thanks for reading!
+Em 2014 comecei a trabalhar como bolsista no Laboratório de Redes de Computadores e Segurança (LARCES) da Universidade Estadual do Ceará onde desempenhei atividades como desenvolvedor de aplicativos móveis móvel (Android), desenvolvedor de soluções Web (Java) e desenvolvedor de aplicações Desktop (Java Swing) em projetos de pesquisa e desenvolvimento para empresas do sul e sudeste brasileiro.

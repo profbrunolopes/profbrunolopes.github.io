@@ -1,6 +1,7 @@
 baseurl = "/"
 title = "Blog do Prof"
 languageCode = "pt-br"
+defaultContentLanguage = "pt-br"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
@@ -31,10 +32,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   list = "right"   # Configure layout for list pages
   single = "right" # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["search", "recent", "categories", "taglist"]
+  widgets = ["search", "recent", "categories", "taglist", "social"]
 
 [Params.widgets.social]
-  # Enable parts of social widget
   twitter = "brunolopesjn"
   instagram = "profbrunolopesce"
   linkedin = "profbrunolopes"
